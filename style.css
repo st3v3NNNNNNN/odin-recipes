@@ -1,0 +1,10 @@
+.cards {
+    text-align: center;
+    color: darkred
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 8px;
+    padding-left: 14px;
+}
